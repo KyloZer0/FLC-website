@@ -23,7 +23,7 @@ h2{
     font-size: 50px;
     font-weight: bold;
 }
-#myvideo {
+video {
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -35,6 +35,8 @@ h2{
 
 .backgroundvid{
     object-fit: fill;
+    width: 100%;
+    height: 100%;
 
 }
 
@@ -97,7 +99,10 @@ h2{
     justify-content: center;
     position: relative;
 }
+.missionstatement{
+    background-color: gray;
 
+}
 .heading2 {
     font-weight: bold;
     color: turquoise;

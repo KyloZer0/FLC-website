@@ -122,11 +122,10 @@ video {
 .residentpastorpic{
     display: flex;
     flex-direction: row;
-}
-.residentpastorpic img{
     align-items: flex-end;
     justify-content: flex-end;
 }
+
 .heading2 {
     font-weight: bold;
     color: turquoise;

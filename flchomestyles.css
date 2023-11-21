@@ -100,8 +100,24 @@ video {
     position: relative;
 }
 .missionstatement{
-    background-color: gray;
+    background-color: rgb(224, 216, 216);
+    text-justify: distribute-all-lines;
 
+}
+.statement{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+}
+.statement p{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: inherit;
+    line-height: 1em;
+    font-weight: bold;
+    font-size: 20px;
+    color: grey;
 }
 .heading2 {
     font-weight: bold;

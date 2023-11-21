@@ -138,3 +138,17 @@ video {
     text-align: center;
 
 }
+
+.buttoncontainer{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    
+
+}
+
+.buttoncontainer a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    color: black;
+}

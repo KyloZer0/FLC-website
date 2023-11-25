@@ -155,3 +155,12 @@ video {
     font-weight: 200;
     color: black;
 }
+
+.founderinfo {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+
+}

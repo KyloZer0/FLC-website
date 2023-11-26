@@ -161,6 +161,7 @@ video {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-color: grey;
     
 
 }
@@ -168,6 +169,7 @@ video {
 .founderheader {
     text-align: center;
     font-weight: bold;
+    color: blue;
 
 
 }

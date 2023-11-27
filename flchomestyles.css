@@ -167,9 +167,14 @@ video {
 }
 
 .founderheader {
-    text-align: center;
+    text-align: justify;
     font-weight: bold;
     color: blue;
 
 
 }
+
+.founderbutton {
+    text-align: center;
+    border: 3px;
+    border-radius: 15px;

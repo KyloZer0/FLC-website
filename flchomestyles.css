@@ -189,3 +189,28 @@ h4 {
     margin-left: 200px;
 
 }
+
+.flchannel{
+    background-image: url(images/first-love-center-picture.jpeg);
+    background-size: cover;
+    height: 700px;
+    
+}
+.channelhead {
+    display: flex;
+    justify-content: center;
+    color: white;
+
+}
+.flchannelsubhead{
+    color: white;
+    
+
+
+}
+
+.flchanneltexts{
+    color: white;
+}
+
+

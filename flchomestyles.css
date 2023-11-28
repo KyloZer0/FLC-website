@@ -168,12 +168,11 @@ video {
 
 }
 
-.founderheader {
+h4 {
     text-align: justify;
     font-weight: bold;
+    font-size: 30px;
     color: white;
-
-
 }
 
 .founderbutton {

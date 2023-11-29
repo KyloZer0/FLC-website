@@ -169,10 +169,14 @@ video {
 }
 
 h4 {
+    margin-left: 70px;
     text-align: justify;
     font-weight: bold;
     font-size: 30px;
     color: white;
+}
+strong {
+    font-weight: 700px;
 }
 
 .founderbutton {
@@ -186,6 +190,7 @@ h4 {
     font-size: 25px;
     font-weight: 200;
     text-align: left;
+    line-height: 1.5em;
     margin-right: 500px;
     margin-left: 200px;
     color: white;

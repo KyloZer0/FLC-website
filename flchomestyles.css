@@ -205,7 +205,7 @@ strong {
     
 }
 .channelhead {
-    display: flex;
+    margin-top: 500px;
     justify-content: center;
     align-items: center;
     color: white;
@@ -213,6 +213,8 @@ strong {
 }
 .flchannelsubhead{
     color: white;
+    position: relative;
+    margin-left: 500px;
     
 
 

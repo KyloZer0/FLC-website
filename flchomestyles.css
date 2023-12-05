@@ -204,12 +204,11 @@ strong {
     margin-top: 0px;
     
 }
-.channelhead {
-    margin-top: 500px;
-    justify-content: center;
-    align-items: center;
-    color: white;
+.flchannel h2 {
 
+    margin-top: 400px;
+    margin-left: 300px;
+}
 }
 .flchannelsubhead{
     color: white;

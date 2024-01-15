@@ -13,14 +13,14 @@ h1 {
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 300px;
     text-align: center;
-    font-size: 150px;
+    font-size: 80px;
     font-weight: bold;
 }
 h2{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Montserrat',Helvetica,Arial,Lucida,sans-serif;
     margin-top: 20px;
     text-align: center;
-    font-size: 50px;
+    font-size: 34px;
     font-weight: bold;
 }
 video {
@@ -41,7 +41,8 @@ video {
 }
 
 .head-details {
-    display: inline-block;
+    display: flex;
+    flex-direction: row;
     background-color: black;
     height: 120px;
     margin: 0px;
@@ -105,15 +106,17 @@ video {
 
 }
 .statement{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: justify;
+margin: 0;
+padding: 0;
+padding-bottom: 0px;
+box-sizing: border-box;
+border: 0;
+outline: 0;
+font-size: 100%;
+text-align: justify;
 }
 .statement p{
     font-family: Arial, Helvetica, sans-serif;
-    text-align: inherit;
     line-height: 1em;
     font-weight: bold;
     font-size: 20px;
@@ -208,7 +211,6 @@ strong {
 
     margin-top: 400px;
     margin-left: 300px;
-}
 }
 .flchannelsubhead{
     color: white;

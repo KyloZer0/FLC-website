@@ -51,11 +51,31 @@
     width: 100%;
   }
   .purpose{
-    background-color: grey;
+    background-color: #eaeaea;
     display: flex;
+    height: 315px;
+    padding-top: 54px;
+    
   }
   .purpose h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 400;
     color: aqua;
   }
+  .purpose-header-container {
+    width: 100%;
+    display: block;
+    padding-top: 27px;
+    padding-bottom: 27px;
+    margin-left: 213px;
+    margin-right: 213px;
+    text-align: center;
+    
+  }
+
+#purpose-header{
+    font-family: 'Montserrat',Helvetica,Arial,Lucida,sans-serif;
+    font-size: 48px;
+    color: #35aedd;
+    font-weight: 700;
+}
